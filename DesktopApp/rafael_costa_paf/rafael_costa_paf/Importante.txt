@@ -1,0 +1,219 @@
+﻿O ficheiro "Geral.cs" é um ficheiro onde vou guardar funções gerais a todo o programa assim como variáveis necessárias em mais que uma página como o username e o nivel do mesmo.
+
+Cor do azul: 0 76 145
+
+
+Pontos Chave:
+	Admin:
+		- Gestao de Utilizadores
+		- Gestao de Voos
+		- Gestao de Reservas
+	User:
+		- Ver as suas reservas
+
+
+Dia 20/05 ->
+	Por fazer: 
+		Design do Login; 
+		Botao para mostrar e esconder a password; 
+		Guardar as variaveis de username e nivel pela base de dados ao fazer o login;
+		Guardar logs de login;
+		Link de registar;
+		MessageBox para avisar se entrou ou nao, se nao mostrar quantas tentativas tem (tentativas)
+
+	Feito:
+		Botao para mostrar e esconder password; 
+		Design do Login;
+		Guardar as variaveis de username e nivel pela base de daddos ao faer o login;
+
+	Faltou:
+		Guardar Logs de login;
+		Link de registar;
+		MessageBox para avisar se entrou ou nao, se nao mostrar quantas tentativas tem.
+
+
+Dia 21/05 -> 
+	Por fazer:
+		Guardar Logs de login;
+		Registar;
+		MessageBox para avisar se entrou ou nao, se nao mostrar quantas tentativas tem;
+		Comecar a pagina do admin;
+
+	Feito:
+		MessageBox para avisar se entrou ou nao, se nao mostrar quantas tentativas tem.
+		Guardar Logs de login;
+		Registar;
+
+	Faltou:
+		Comecar a pagina do admin;
+
+
+Dia 26/05 ->
+	Preciso de saber qual a melhor maneira a abordar a questao da password, um admin nao pode saber a password do utilizador...
+	O admin nao pode ter acesso as passwords dos utilizadores, entao, quando o admin cria um utilizador novo, na base de dados o campo fica como null, como e que devo fazer nesta situacao, como e que o user em questao cria uma password ?
+
+
+Dia 27/05 ->	
+	JÁ ESTÁ!!!!
+
+	Feito:
+		Precisar mudar de password caso seja a primeira vez a dar login
+
+	Preciso de ver o que faco na parte de apagar um utilizador, o admin nao esta a conseguir apagar users que ja tenham dado login, nao e possivel apagar um registo que ja tenha uma foreign key na outra. Neste caso a primary key (user_id) esta associada a foreign key da tabela logs....
+	O QUE FAZER ?!??!?!
+
+
+	Por fazer:
+		Gestao de voos
+		Gestao de reservas
+
+O que ja da para fazer 
+	Login
+	Criar Conta
+	Mudar Password (caso seja a primeira vez a dar login com tal conta)
+	Ver, Adicionar, Editar e Apagar Utilizadores
+
+
+Dia 28/05 ->
+	tabela pagamentos ????
+		qual a reserva que vai fazer o pagamento, valor do pagamento, metodo de pagamento, data_pagamento, que user fez este pagamento,
+	
+	tabela de lugares ????
+		qual lugar vai estar associado a tal aeronave e reserva.
+
+Dia 02/06 ->
+	JÁ CONSIGO FAZER RESERVAAS
+
+	por fazer:
+		logica de inserir coisas na tabela de pagamentos
+		ser possível fazer download do pdf da reserva
+		Gestão de Aeroportos (Inserir nome, cidade, país, imagem)
+		Gestão de Aeronaves (Inserir modelo, capacidade, imagem)
+
+Dia 03/06 ->
+	No pdf da paf, diz que o voo precisa e data de chegada, mas eu nao tenho
+	o mesmo acontece para o numero de passageiros a reservar, eu tinha antes, mas tirei... (burro)
+	*pedir opiniao*
+
+	o sinal <> em sql e o diferente (o contrario de =)
+
+	JA DA PARA INSERIR VOOS
+
+	feito:
+		Criar Voos novos
+
+	falta:
+		criar automaticamente lugares ao criar o voo
+		logica de inserir coisas na tabela de pagamentos
+		ser possível fazer download do pdf da reserva
+		Gestão de Aeroportos (Inserir nome, cidade, país, imagem)
+		Gestão de Aeronaves (Inserir modelo, capacidade, imagem)
+
+
+Dia 04/06 ->
+	por fazer:
+		ser possível fazer download do pdf da reserva
+		Gestão de Aeroportos (Inserir nome, cidade, país, imagem)
+		Gestão de Aeronaves (Inserir modelo, capacidade, imagem)
+		quando o voo não tiver lugares livres, não ser possível reservar esse voo
+
+
+	feito:
+		criar automaticamente lugares ao criar o voo
+		botão para limpar os campos nas páginas de gestão...
+		verificar se os campos com email, sao validos (nao deixar colocar algo sem o arroba)
+		logica de inserir coisas na tabela de pagamentos
+
+
+Dia 05/06 ->
+	por fazer:
+		ser possível fazer download do pdf da reserva
+		quando o voo não tiver lugares livres, não ser possível reservar esse voo
+		atualizar tabelas da bd (colocar campos como unique, etc)
+
+	feito:
+		Gestão de Aeroportos (Inserir nome, cidade, país, imagem)
+		Ver imagem do Aeroporto
+		Gestão de Aeronaves (Inserir modelo, capacidade, imagem)
+		Ver imagem do Aviao
+		
+	faltou:
+		ser possível fazer download do pdf da reserva
+		quando o voo não tiver lugares livres, não ser possível reservar esse voo
+		atualizar tabelas da bd (colocar campos como unique, etc)
+
+
+Dia 06/06 ->
+	por fazer:	
+		*upload de imagens para aeroportos e avioes ??*
+
+
+	feito:
+		atualizar tabelas da bd (colocar campos como unique, etc)
+		data de chegada (incluindo verificações para a data chegada não ser nem menor nem muito maior que a data de partida)
+		ser possível fazer download do pdf da reserva
+		quando o voo não tiver lugares livres, não ser possível reservar esse voo
+
+
+	faltou:
+		*upload de imagens para aeroportos e avioes ??*
+
+
+Dia 10/06 ->
+	por fazer:
+		*upload de imagens para aeroportos e avioes ??*
+		adicionar try catch onde for necessario 
+
+
+	feito:
+		
+
+
+Dia 11/06 ->
+	o ASP tem que ser criado noutro projeto (outra solution)
+
+	feito:
+		dá para inserir imagem pela base de dados!
+		numero de lugares
+
+	por fazer:
+		limpar base de dados (apagar e voltar a criar estrutura para depois inserir pelo programa)
+		adicionar uns try, catch onde for preciso
+
+		abrir nova tab para criar novo utilizador
+		os campos dependentes de outros devem estar disabled
+		corrigir a parte das imagens
+
+		ASP
+
+
+Dia 12/06 ->
+	por fazer:
+		limpar base de dados (apagar e voltar a criar estrutura para depois inserir pelo programa)
+		adicionar uns try, catch onde for preciso
+		abrir nova tab para criar novo utilizador
+		ASP
+		
+	feito:
+		os campos dependentes de outros devem estar disabled
+		corrigir a parte das imagens
+
+
+Dia 13/06 ->
+	por fazer: 
+		limpar base de dados (apagar e voltar a criar estrutura para depois inserir pelo programa)
+		ASP
+
+	feito:
+		adicionar uns try, catch onde for preciso
+		apagar voos (tenho que primeiro apagar na tabela de pagamentos)
+
+
+Dia 15/06 ->
+	feito:
+		limpar base de dados (apagar e voltar a criar estrutura para depois inserir pelo programa)
+		ASP
+
+	por fazer:
+		procurar erros e coisas que passaram ao lado
+		ppt

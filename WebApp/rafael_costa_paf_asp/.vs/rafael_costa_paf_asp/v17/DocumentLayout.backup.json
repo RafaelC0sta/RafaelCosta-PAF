@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf_asp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB93E831-A8E8-4A25-B0B6-FB7D89D777A8}|rafael_costa_paf_asp\\rafael_costa_paf_asp.csproj|c:\\users\\rafae\\source\\repos\\rafael_costa_paf_asp\\rafael_costa_paf_asp\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{DB93E831-A8E8-4A25-B0B6-FB7D89D777A8}|rafael_costa_paf_asp\\rafael_costa_paf_asp.csproj|solutionrelative:rafael_costa_paf_asp\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB93E831-A8E8-4A25-B0B6-FB7D89D777A8}|rafael_costa_paf_asp\\rafael_costa_paf_asp.csproj|C:\\Users\\rafae\\source\\repos\\rafael_costa_paf_asp\\rafael_costa_paf_asp\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB93E831-A8E8-4A25-B0B6-FB7D89D777A8}|rafael_costa_paf_asp\\rafael_costa_paf_asp.csproj|solutionrelative:rafael_costa_paf_asp\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf_asp\\rafael_costa_paf_asp\\login.aspx.cs",
+              "RelativeDocumentMoniker": "rafael_costa_paf_asp\\login.aspx.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf_asp\\rafael_costa_paf_asp\\login.aspx.cs",
+              "RelativeToolTip": "rafael_costa_paf_asp\\login.aspx.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowEAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T12:55:38.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "login.aspx",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf_asp\\rafael_costa_paf_asp\\login.aspx",
+              "RelativeDocumentMoniker": "rafael_costa_paf_asp\\login.aspx",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf_asp\\rafael_costa_paf_asp\\login.aspx",
+              "RelativeToolTip": "rafael_costa_paf_asp\\login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-06-16T18:25:17.444Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

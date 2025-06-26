@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40ACFEC3-7B15-4148-9058-651CD5D06FF3}|rafael_costa_paf\\rafael_costa_paf.csproj|c:\\users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\admin\\gerirutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40ACFEC3-7B15-4148-9058-651CD5D06FF3}|rafael_costa_paf\\rafael_costa_paf.csproj|solutionrelative:rafael_costa_paf\\admin\\gerirutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40ACFEC3-7B15-4148-9058-651CD5D06FF3}|rafael_costa_paf\\rafael_costa_paf.csproj|c:\\users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\admin\\gerirutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40ACFEC3-7B15-4148-9058-651CD5D06FF3}|rafael_costa_paf\\rafael_costa_paf.csproj|solutionrelative:rafael_costa_paf\\admin\\gerirutilizadores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40ACFEC3-7B15-4148-9058-651CD5D06FF3}|rafael_costa_paf\\rafael_costa_paf.csproj|c:\\users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40ACFEC3-7B15-4148-9058-651CD5D06FF3}|rafael_costa_paf\\rafael_costa_paf.csproj|solutionrelative:rafael_costa_paf\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40ACFEC3-7B15-4148-9058-651CD5D06FF3}|rafael_costa_paf\\rafael_costa_paf.csproj|c:\\users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40ACFEC3-7B15-4148-9058-651CD5D06FF3}|rafael_costa_paf\\rafael_costa_paf.csproj|solutionrelative:rafael_costa_paf\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40ACFEC3-7B15-4148-9058-651CD5D06FF3}|rafael_costa_paf\\rafael_costa_paf.csproj|c:\\users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{40ACFEC3-7B15-4148-9058-651CD5D06FF3}|rafael_costa_paf\\rafael_costa_paf.csproj|solutionrelative:rafael_costa_paf\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40ACFEC3-7B15-4148-9058-651CD5D06FF3}|rafael_costa_paf\\rafael_costa_paf.csproj|C:\\Users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\importante.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{40ACFEC3-7B15-4148-9058-651CD5D06FF3}|rafael_costa_paf\\rafael_costa_paf.csproj|solutionrelative:rafael_costa_paf\\importante.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Importante.txt",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\Importante.txt",
+              "RelativeDocumentMoniker": "rafael_costa_paf\\Importante.txt",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\Importante.txt",
+              "RelativeToolTip": "rafael_costa_paf\\Importante.txt",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAAANoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-20T18:44:26.6Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GerirUtilizadores.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\Admin\\GerirUtilizadores.cs",
+              "RelativeDocumentMoniker": "rafael_costa_paf\\Admin\\GerirUtilizadores.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\Admin\\GerirUtilizadores.cs",
+              "RelativeToolTip": "rafael_costa_paf\\Admin\\GerirUtilizadores.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAkwJgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:40:50.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GerirUtilizadores.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\Admin\\GerirUtilizadores.cs",
+              "RelativeDocumentMoniker": "rafael_costa_paf\\Admin\\GerirUtilizadores.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\Admin\\GerirUtilizadores.cs [Design]",
+              "RelativeToolTip": "rafael_costa_paf\\Admin\\GerirUtilizadores.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:40:49.404Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\Register.cs",
+              "RelativeDocumentMoniker": "rafael_costa_paf\\Register.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\Register.cs",
+              "RelativeToolTip": "rafael_costa_paf\\Register.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAApwE8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:18:55.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\Register.cs",
+              "RelativeDocumentMoniker": "rafael_costa_paf\\Register.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\Register.cs [Design]",
+              "RelativeToolTip": "rafael_costa_paf\\Register.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:18:54.528Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\Login.cs",
+              "RelativeDocumentMoniker": "rafael_costa_paf\\Login.cs",
+              "ToolTip": "C:\\Users\\rafae\\source\\repos\\rafael_costa_paf\\rafael_costa_paf\\Login.cs [Design]",
+              "RelativeToolTip": "rafael_costa_paf\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T10:14:01.409Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
