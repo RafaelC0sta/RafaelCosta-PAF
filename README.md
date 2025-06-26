@@ -49,8 +49,10 @@ Desenvolver um sistema completo para a empresa fictícia **AirATEC**, permitindo
 ![Form Avioes](Presentation/images/avioes.png)
 ![Form Reservas](Presentation/images/reservas.png)
 ![Form UserReserva](Presentation/images/userreserva.png)
+![Detalhes Voo](Presentation/images/detalhesVoo.png)
 ![Web Login](Presentation/images/weblogin.png)
 ![Web Index](Presentation/images/webindex.png)
+![PDF Reserva](Presentation/images/reciboPDF.png)
 
 ## 📌 Autor
 - Nome: Rafael Costa
