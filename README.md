@@ -1,6 +1,6 @@
 # AirATEC - Sistema de Reservas de Voos ✈️
 
-Este projeto foi desenvolvido no âmbito do fim do curso de aprendizagem "Programador/a de Informática", utilizando **C#**, **WindowsForms**, **ASP.NET**, e base de dados **MySQL**.
+Este projeto foi desenvolvido no âmbito do fim do curso de aprendizagem "Programador/a de Informática", utilizando **C#**, **WindowsForms**, **ASP.NET (Web Forms)**, e base de dados **MySQL**.
 
 
 ## 🧠 Objetivo
@@ -14,7 +14,7 @@ Desenvolver um sistema completo para a empresa fictícia **AirATEC**, permitindo
 ## 🛠️ Tecnologias utilizadas
 
 - Visual Studio Community
-- C# com WindowsForms e ASP.NET
+- C# com WindowsForms e ASP.NET (Web Forms)
 - MySQL (Workbench)
 - PowerPoint (apresentação)
 
